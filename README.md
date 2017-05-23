@@ -5,4 +5,4 @@
 - [0518](README/0518.md) : 음수마진2, Sass문법2
 - [0519](README/0519.md) : 반응형 디자인 3대 원칙, 반응형 이미지 작업, Sass 문법사용3
 - [0522](README/0522.md) : 야무님 첫수업 OT와 시험문제 풀이, 디자인 시안과 정확하게 만들기 위한 togglegrid를 만들어 확인하기.
-- [0522](README/0522.md) : 홈페이지 구축을 위한 준비작업들(포토샵 togglegrid)과 Sass 환경구성, Sass문법3
+- [0523](README/0523.md) : 홈페이지 구축을 위한 준비작업들(포토샵 togglegrid)과 Sass 환경구성, Sass문법3
