@@ -16,3 +16,7 @@
 ## Javascript
  - [0529](README/0529.md) : 자바스크립트 개요 및 변수 사용 방법.
  - [0530](README/0530.md) : 자바스크립트 개요2 및 자료형 값 복사, 형변환, 데이터 유형 검증 방법, 객체 다루는 방법.
+
+
+## Array Method 정리
+ - [Array Method](README/ArrayMethod.md): Array 함수들을 정리한 곳.
