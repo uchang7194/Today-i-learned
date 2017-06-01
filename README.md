@@ -21,3 +21,6 @@
 
 ## Array Method 정리
  - [Array Method](README/ArrayMethod.md): Array 함수들을 정리한 곳.
+
+## Prototype 정리
+ - [Prototype](README/prototype.md): Prototype의 개념에 대해 정리한 곳.
