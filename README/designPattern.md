@@ -68,4 +68,8 @@
     window.myLibrary = _myLibrary;
  }(window))
  ```
+
+# 이벤트 델리게이션 패턴
+ - 일일이 모든 DOM에 이벤트를 할당하는 것을 하나의 부모 DOM을 만들어서 이벤트를 처리하는 것.
+
  
