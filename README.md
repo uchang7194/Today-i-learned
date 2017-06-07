@@ -20,7 +20,7 @@
  - [0601](README/Object.create.md) : Object.create()
  - [0602](README/0602.md) : 흐름제어, if문, 반복문 
  - [0605](README/0605.md) : 함수, this, arguments, parameters, 재귀함수, call, apply, bind
- - [0605](README/0607.md) : IIFE, 클로저, 응용방법.
+ - [0607](README/0607.md) : IIFE, 클로저, 응용방법.
  
 ## Array Method 정리
  - [Array Method](README/ArrayMethod.md): Array 함수들을 정리한 곳.
