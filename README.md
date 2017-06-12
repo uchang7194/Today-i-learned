@@ -21,8 +21,8 @@
  - [0602](README/0602.md) : 흐름제어, if문, 반복문 
  - [0605](README/0605.md) : 함수, this, arguments, parameters, 재귀함수, call, apply, bind
  - [0607](README/0607.md) : IIFE, 클로저, 응용방법.
- - [0609](README/0609.md) : 
- - [0609](README/0612.md) : window.onload, defer/async, parentNode, firstChild, lastChild, previousSibling, nextSibling, childrenNodes, children, nodeName, nodeValue, nodeType, localName, TagName, nodeValue, textContent, innerText, firstElementChild, lastElementChild, nextElementSibling, previousElementSibling
+ - [0609](README/0609.md) : 엄격(strict) 모드, 사용자 정의 객체 생성자 함수, 서버에서 파일 병합시 IIFE 패턴 사용시 주의할 점, BOM, DOM(Lv0, Lv1, Lv2) 
+ - [0612](README/0612.md) : window.onload, defer/async, parentNode, firstChild, lastChild, previousSibling, nextSibling, childrenNodes, children, nodeName, nodeValue, nodeType, localName, TagName, nodeValue, textContent, innerText, firstElementChild, lastElementChild, nextElementSibling, previousElementSibling
  
 ## Array Method 정리
  - [Array Method](README/ArrayMethod.md): Array 함수들을 정리한 곳.
