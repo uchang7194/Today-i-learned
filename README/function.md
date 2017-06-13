@@ -118,3 +118,60 @@
  - 함수 표현식으로 선언한다.
  - 함수가 즉시 실행될 수 있도록 마지막에 괄호쌍을 추가.
  - 전체 함수를 괄호로 감싼다.(함수를 변수에 할당하지 않을 경우에만 필요)
+
+ ### 즉시 실행 함수의 매개변수
+ ```javascript
+ (function(global){
+
+ }(window));
+ ```
+
+ ### 즉시 객체 초기화 패턴
+ ```javascript
+ ({
+     maxwidth: 600,
+     maxheight: 400,
+     gimmeMax: function() {
+        return this.maxwidth + "X" + this.maxheight;
+     },
+     init: function() {
+         console.log(this.gimmeMax());
+     }
+ }).init();
+ ```
+ - ({}).init();
+ - ({}.init());
+
+ ### 초기화 시점의 분기
+ > 초기화 시점의 분기를 사용해 기능을 개별적으로 탐지하는 것.
+ ```javascript
+ var previousSibling = function() {
+    var _previousSibling = null;
+ 
+    if( 'previousElementSibling' in Element.prototype ) { // 이부분이 분기점. 최초 한번만 실행할 수 있다는 장점.
+        _previousSibling = function(el_node) {
+            return el_node.previousElementSibling;
+        }
+    } else {
+        _previousSibling = function(el_node) {
+            do {
+                el_node = el_node.previousSibling;
+            } while( el_node && el_node.nodeType !== 1)
+    
+            return el_node;
+        }
+    }
+    
+    return _previousSibling;
+ }()
+ ```
+ ## 메모이제이션(Memoization) 패턴
+ - 함수의 프로퍼티에 결과를 캐시해서 사용하는 방식.
+
+ ## 설정 객체 패턴
+ - 객체를 사용하여 arguments에 넘겨줌.
+
+ ## 커리(Curry)
+ - 함수가 부분적인 적용을 이해하고 처리할 수 있도록 만드는 과정
+  ### 함수 적용
+  ### 부분적인 함수 적용
