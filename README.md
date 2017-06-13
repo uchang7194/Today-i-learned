@@ -23,9 +23,13 @@
  - [0607](README/0607.md) : IIFE, 클로저, 응용방법.
  - [0609](README/0609.md) : 엄격(strict) 모드, 사용자 정의 객체 생성자 함수, 서버에서 파일 병합시 IIFE 패턴 사용시 주의할 점, BOM, DOM(Lv0, Lv1, Lv2) 
  - [0612](README/0612.md) : window.onload, defer/async, parentNode, firstChild, lastChild, previousSibling, nextSibling, childrenNodes, children, nodeName, nodeValue, nodeType, localName, TagName, nodeValue, textContent, innerText, firstElementChild, lastElementChild, nextElementSibling, previousElementSibling
+ - [0613](README/0607.md) : 이벤트 헨들링, className, hasChildNodes(), 클래스를 사용하면 느리다고 하는 이유, 정규표현식, querySelector, querySelectorAll
  
 ## Array Method 정리
  - [Array Method](README/ArrayMethod.md): Array 함수들을 정리한 곳.
 
 ## Prototype 정리
  - [Prototype](README/prototype.md): Prototype의 개념에 대해 정리한 곳.
+
+## Function 정리
+ - [Function](README/function.md): function의 개념들에 대해 정리한 곳.(모르는 개념이 조금 있음);

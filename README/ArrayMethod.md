@@ -83,6 +83,7 @@
   ```
 
   ### includes
+  - ES6
   - 전달된 문자열이 문자열 개체에 포함되어 있는지 여부를 나타내는 부울 값을 반환
   ```javascript
   // Returns true 
