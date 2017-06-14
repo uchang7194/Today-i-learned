@@ -34,7 +34,7 @@
 ## String Method 정리
  - [String Method](README/String.md): String 함수들을 정리한 곳.
 
-#필요한 개념들
+# 필요한 개념들
 ## Prototype 정리
  - [Prototype](README/prototype.md): Prototype의 개념에 대해 정리한 곳.
 
