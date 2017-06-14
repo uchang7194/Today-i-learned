@@ -1,7 +1,7 @@
 # Today-i-learned
 제가 오늘 배웠던 내용들에 대해서 정리하고 관련자료를 정리하는 곳 입니다.
 
-#HTML, CSS
+# HTML, CSS
 - [0517](README/0517.md) : 음수마진1, Sass문법1
 - [0518](README/0518.md) : 음수마진2, Sass문법2
 - [0519](README/0519.md) : 반응형 디자인 3대 원칙, 반응형 이미지 작업, Sass 문법사용3
@@ -27,7 +27,7 @@
  - [0613](README/06013.md) : 이벤트 헨들링, className, hasChildNodes(), 클래스를 사용하면 느리다고 하는 이유, 정규표현식, querySelector, querySelectorAll
  - [0614](README/06014.md) : createElement, createAttribute, createTextNode, appendChild, setAttributeNode, setAttribute, getAttribute, DOM 종류, 반복문에서 Event Handling할 때 방식1,2,3
  
-#Method 
+# Method 
 ## Array Method 정리
  - [Array Method](README/ArrayMethod.md): Array 함수들을 정리한 곳.
 
