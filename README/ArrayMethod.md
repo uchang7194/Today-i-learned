@@ -94,3 +94,19 @@
   "abcde".includes("CD")
   "abcde".includes("cd", 3)
   ```
+
+  ### map
+  > map() 메소드는 배열 내의 모든 요소 각각에 대하여  제공된 함수(callback)를 호출하고, 그 결과를 모아서,  새로운 배열을 반환합니다.
+  ```javascript
+  var numbers = [1, 4, 9];
+  var doubles = numbers.map(function(num) {
+    return num * 2;
+  });
+  ```
+  ### reduce
+  > reduce() 메서드는 누산기(accumulator) 및 배열의 각 값(좌에서 우로)에 대해 (누산된) 한 값으로 줄도록 함수를 적용합니다.
+  ```javascript
+  [0, 1, 2, 3, 4].reduce(function(previousValue, currentValue, currentIndex, array) {
+    return previousValue + currentValue;
+  });
+  ```
