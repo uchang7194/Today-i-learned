@@ -28,6 +28,7 @@
  - [0614](README/0614.md) : createElement, createAttribute, createTextNode, appendChild, setAttributeNode, setAttribute, getAttribute, DOM 종류, 반복문에서 Event Handling할 때 방식1,2,3
  - [0616](README/0616.md) : insertBefore, removeChild, replaceChild, bind(내 생각), 이벤트 제어 방법
  - [0622](README/0622.md) : Aria, keyEvent
+ - [0627](README/0627.md) : classList 요소들, cloneNode, forEach, e.preventDefault(), innerHTML, insertAdjacentHTML, insertAdjacentElement, insertAdjacentText, dataset
  
 # Method 
 ## Array Method
