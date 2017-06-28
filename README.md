@@ -29,6 +29,7 @@
  - [0616](README/0616.md) : insertBefore, removeChild, replaceChild, bind(내 생각), 이벤트 제어 방법
  - [0622](README/0622.md) : Aria, keyEvent
  - [0627](README/0627.md) : classList 요소들, cloneNode, forEach, e.preventDefault(), innerHTML, insertAdjacentHTML, insertAdjacentElement, insertAdjacentText, dataset
+ - [0628](README/0628.md) : Event(이벤트 위임, capturing, bubbling,...), js에서 style주기
  
 # Method 
 ## Array Method
