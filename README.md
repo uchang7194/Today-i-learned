@@ -31,6 +31,7 @@
  - [0627](README/0627.md) : classList 요소들, cloneNode, forEach, e.preventDefault(), innerHTML, insertAdjacentHTML, insertAdjacentElement, insertAdjacentText, dataset
  - [0628](README/0628.md) : Event(이벤트 위임, capturing, bubbling,...), js에서 style주기
  - [0704](README/0704.md) : Ajax
+ - [0711](README/0711.md) : package.json, CDN, PUG, arrow(=>), 메소드 체이닝, jQuery Method
  
 # Method 
 ## Array Method
