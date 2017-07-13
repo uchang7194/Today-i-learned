@@ -1,13 +1,13 @@
-#git collaboration
+## git collaboration
 
-## 콜라보 초대
+1. 콜라보 초대
 
-### 초대하는 사람: repository -> settings -> collaborator -> user name / full name / email address -> 초대
-### 초대받을 사람: email(git에 가입되어 있는) -> view invitation 클릭 -> 참여 
+- 초대하는 사람: repository -> settings -> collaborator -> user name / full name / email address -> 초대
+- 초대받을 사람: email(git에 가입되어 있는) -> view invitation 클릭 -> 참여 
 
-## 여러사람이 merge를 할 수 있지만 프로젝트의 내용이 바뀌거나 없어질 위험성이 큼.
+2. 여러사람이 merge를 할 수 있지만 프로젝트의 내용이 바뀌거나 없어질 위험성이 큼.
 
-## 콜라보 과정 중 conflict가 일어날 경우
+3. 콜라보 과정 중 conflict가 일어날 경우
 ```
 [A, B 브랜치가 같은 파일을 수정할 경우]
 (중복되지 않는 파일을 수정해서 올릴 경우에는 conflict가 날 일이 없음.)
