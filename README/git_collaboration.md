@@ -2,8 +2,8 @@
 
 1. 콜라보 초대
 
-### 초대하는 사람: repository -> settings -> collaborator -> user name / full name / email address -> 초대
-### 초대받을 사람: email(git에 가입되어 있는) -> view invitation 클릭 -> 참여 
+- 초대하는 사람: repository -> settings -> collaborator -> user name / full name / email address -> 초대
+- 초대받을 사람: email(git에 가입되어 있는) -> view invitation 클릭 -> 참여 
 
 2. 여러사람이 merge를 할 수 있지만 프로젝트의 내용이 바뀌거나 없어질 위험성이 큼.
 
